@@ -1,0 +1,15 @@
+[{ "author" : "Dirk Hornstra",
+    "version": "1.0",
+    "name" : "obfuscate",
+    "url" : "https://techblog.dirkhornstra.nl",
+    "exclude" : "",
+    "rightbar" : [],
+    "bottombar" : [],
+    "contextmenu" : [{
+        "action" : "codiad.obfuscate.doRename();",
+        "icon" : "icon-pencil",
+        "admin" : false,
+        "applies-to" : "both",
+        "title" : "Obfuscate"
+        }]
+    }]
